@@ -1,0 +1,5 @@
+.tablecell {
+  border: 1px solid rgba(224,224,244,1);
+  border-collapse: collapse;
+  padding : 7px 5px !important;
+}

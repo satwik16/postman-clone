@@ -1,0 +1,15 @@
+.table{
+    border: 1px solid black;
+}
+
+.check_box{
+ 
+    padding : 17px  5px !important;
+}
+
+.text_field{
+    /* height : 10px !important; */
+    /* padding : 0px 0px !important; */
+    width : 100% !important;
+    /* margin : 0px 0px !important; */
+}

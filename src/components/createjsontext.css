@@ -1,0 +1,13 @@
+.textarea1{
+
+    padding : 10px;
+    padding-left : 40px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    background: url(http://i.imgur.com/2cOaJ.png);
+    /* backgroundAttachment: 'local',
+    backgroundRepeat: 'no-repeat', */
+
+    background-repeat: no-repeat;
+}
+

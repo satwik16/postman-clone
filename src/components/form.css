@@ -1,0 +1,29 @@
+.dropdown {
+    width : 120px ;
+    height:40px ;
+    margin: 5px !important;
+     outline : none;
+     border : none ;
+}
+
+.textarea {
+    width : 100% ;
+    background-color: #f3f3f7;
+    margin: 5px !important;
+    outline : none;
+    border : none ;
+
+
+}
+.box {
+    
+    display : flex ;
+    align-items : center;
+    justify-content : space-between;
+}
+
+.button{
+     width : 100px ;
+     height : 40px ;
+     margin: 5px !important;
+}
